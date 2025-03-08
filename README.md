@@ -1,4 +1,4 @@
-# Gradient Cryo-EM
+# Integrative Structural Modelling of Cryo-EM data using PLUMED.
 
 ## January, 2021
 
